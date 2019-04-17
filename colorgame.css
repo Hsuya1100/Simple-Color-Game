@@ -1,0 +1,51 @@
+body{
+	background-color: #002626;
+}
+h1{
+	margin-left: 35%;
+}
+.square{
+	width: 30%;	
+	padding-bottom: 30%;
+	float: left;
+	background: purple;
+	margin: 1.66%;
+	border-radius:10px;
+
+}
+#container{
+	max-width: 37%	;
+	margin: 0 auto;
+}
+h1{
+	color:white;
+
+}
+#message{
+	color:black;
+	
+}
+#stripe{
+	background-color: green;
+	 	height:30px;
+	text-align: center;
+
+}
+.selected{
+	background-color: blue;
+	color: white;
+	
+}
+.show{
+	display: block;
+}
+.hide{
+	display: none;
+}
+button{
+	width:12%;
+	height:100%;
+	border-radius: 5px;
+	background: #2F4858;
+	color: white;
+}
