@@ -1,3 +1,3 @@
 # Simple-Color-Game
   Made using js
-  https://punisher1151.github.io/Simple-Color-Game/
+  https://hsuya1100.github.io/Simple-Color-Game/
